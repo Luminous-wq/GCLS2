@@ -30,19 +30,19 @@ This code-repo contains the following contents:
 │  └─ pubmed
 │
 ├─large-training			--- This folder contains codes of GCLS2 for large-datasets.		
-│      ├─ main.py			(run GCLS2)
-│      ├─ model.py			(all model and loss calulate)
-│      ├─ preproc.py			(partitioning methods: HGP, LDG, METIS and Hash)
-│      └─ train.py			(training processing)
+│      ├─ main.py				(run GCLS2)
+│      ├─ model.py				(all model and loss calulate)
+│      ├─ preproc.py				(partitioning methods: HGP, LDG, METIS and Hash)
+│      └─ train.py				(training processing)
 │
 ├─logs					--- This folder contains running logs for training.			
 │      └─ cora.log
 │
 ├─mini-training				--- This folder contains codes of GCLS2 for mini-datasets.	
-│      ├─ argparses.py			(argparses)
-│      ├─ main.py			(run GCLS2)
-│      ├─ model.py			(all model and loss calulate)
-│      └─ read_datasets.py		(read and deal the origin mini-datasets)
+│      ├─ argparses.py				(argparses)
+│      ├─ main.py				(run GCLS2)
+│      ├─ model.py				(all model and loss calulate)
+│      └─ read_datasets.py			(read and deal the origin mini-datasets)
 │
 └─ptModel				--- This folder contains pre-trained and test models for reproducibility.	
        ├─ best_model_cl_cora.pt
