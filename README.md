@@ -50,7 +50,7 @@ This code-repo contains the following contents:
 
 ```
 
-## Required environment
+## Required Environment
 
 1. python 3.8 or above
 2. torch 2.1.0 or above
@@ -59,7 +59,7 @@ This code-repo contains the following contents:
 5. sklearn
 6. pymetis
 
-## Running way
+## Running Way
 
 ```
 For mini-datasets:
