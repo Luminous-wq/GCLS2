@@ -6,7 +6,7 @@ If you find this work useful in your method, you can cite the paper as below:
 
 ```
 @article{wen2024gcls,
-  title={GCLS $\^{} 2$: Towards Efficient Community Detection using Graph Contrastive Learning with Structure Semantics},
+  title={GCLS$^2$: Towards Efficient Community Detection using Graph Contrastive Learning with Structure Semantics},
   author={Wen, Qi and Zhang, Yiyang and Ye, Yutong and Zhou, Yingbo and Zhang, Nan and Lian, Xiang and Chen, Mingsong},
   journal={arXiv preprint arXiv:2410.11273},
   year={2024}
