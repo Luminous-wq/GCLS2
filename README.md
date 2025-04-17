@@ -1,17 +1,6 @@
 ## GCLS2: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics
 
-This is the official code-repo for "**GCLS2: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics**". [[Paper]](https://arxiv.org/abs/2410.11273)
-
-If you find this work useful in your method, you can cite the paper as below:
-
-```
-@article{wen2024gcls,
-  title={GCLS$^2$: Towards Efficient Community Detection using Graph Contrastive Learning with Structure Semantics},
-  author={Wen, Qi and Zhang, Yiyang and Ye, Yutong and Zhou, Yingbo and Zhang, Nan and Lian, Xiang and Chen, Mingsong},
-  journal={arXiv preprint arXiv:2410.11273},
-  year={2024}
-}
-```
+This is the official code-repo for "**GCLS2: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics**". 
 
 ### Code-Repo Introduction
 
