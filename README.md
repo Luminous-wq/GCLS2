@@ -1,4 +1,4 @@
-## GCLS2: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics
+## GCLS2: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics (2025 CIKM)
 
 This is the official code-repo for "**GCLS2: Towards Efficient Community Detection Using Graph Contrastive Learning with Structure Semantics**". 
 
